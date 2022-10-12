@@ -3,7 +3,7 @@
 ![preview1](https://user-images.githubusercontent.com/113396724/195221442-ec84a6f6-8306-4041-b00c-d0c6e96b4b67.jpg)
 
 
-> Mnha Trilha
+> Minha Trilha
 
 Projeto construido
 em aula prática, onde pude colocar 
